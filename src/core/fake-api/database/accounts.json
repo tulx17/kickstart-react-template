@@ -1,0 +1,16 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "username": "johndoe",
+      "password": "admin",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "janedoe",
+      "password": "user",
+      "role": "user"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "cities": [
+      {
+        "id": 1,
+        "name": "Ha Noi"
+      },
+      {
+        "id": 2,
+        "name": "Ho Chi Minh"
+      }
+    ]
+  }
+}
