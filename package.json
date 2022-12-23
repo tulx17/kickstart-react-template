@@ -16,7 +16,7 @@
     "husky": "^7.0.4",
     "i18next": "^21.6.16",
     "jotai": "^1.6.4",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lint-staged": "^12.3.8",
     "prettier": "^2.6.2",
     "react": "^18.0.0",
